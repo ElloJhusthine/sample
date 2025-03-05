@@ -6,6 +6,12 @@
             { "code": "IT111", "title": "Introduction to Computing" },
             { "code": "IT112", "title": "Computer Programming 1", "credit": 3 },
             { "code": "PurCom", "title": "Purposive Communication", "credit": 3 }
+            { "code": "RPH", "title": "Readings in Philippine History", "credit": 3 }
+            { "code": "TCW", "title": "The Contemporary World", "credit": 3 }
+            { "code": "MMW", "title": "Mathematics in the Modern World", "credit": 3 }
+            { "code": "PATH FIT 1", "title": "Movement Enhancement", "credit": 3 }
+            { "code": "NSTP101", "title": "ROTC/CWTS/LTS I", "credit": 3 }
+            
         ]
     },
     {
