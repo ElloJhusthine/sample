@@ -3,7 +3,7 @@
         "year": "1st Year",
         "semester": "1st Semester",
         "subjects": [
-            { "code": "IT111", "title": "Introduction to Computing", "credit": 3 },
+            { "code": "IT111", "title": "Introduction to Computing" },
             { "code": "IT112", "title": "Computer Programming 1", "credit": 3 },
             { "code": "PurCom", "title": "Purposive Communication", "credit": 3 }
         ]
