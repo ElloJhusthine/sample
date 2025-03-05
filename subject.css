@@ -1,10 +1,29 @@
-.subject {
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.semester {
+    margin-bottom: 20px;
+    padding: 10px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+.subject-card {
     display: block;
     text-align: center;
     padding: 15px;
     margin: 10px auto;
     width: 70%;
-    background-color: #d291bc; /* Soft pink-violet */
+    background-color: #d291bc;
     color: white;
     border-radius: 8px;
     font-weight: bold;
@@ -12,6 +31,6 @@
     font-size: 18px;
 }
 
-.subject:hover {
-    background-color: #8e44ad; /* Darker Violet */
+.subject-card:hover {
+    background-color: #8e44ad;
 }
