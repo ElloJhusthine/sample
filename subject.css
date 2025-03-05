@@ -12,6 +12,6 @@
     font-size: 18px;
 }
 
-.subject-card:hover {
+.subject:hover {
     background-color: #8e44ad; /* Darker Violet */
 }
